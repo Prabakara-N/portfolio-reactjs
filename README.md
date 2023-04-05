@@ -1,6 +1,6 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://prabakaran-portfolio.netlify.app/)
+[🔗Live Demo🔗](https://prabakaran-portfolio-reactjs.netlify.app/)
 
 ![Protfolio Website](https://res.cloudinary.com/daxmjqsy2/image/upload/v1680684223/Screenshot_74_ylys0m.png)
 
