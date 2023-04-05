@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://prabakaran-portfolio.netlify.app/)
 
-![Protfolio Website](https://res.cloudinary.com/daxmjqsy2/image/upload/v1678171767/Screenshot_5_-01_ercoim.jpg)
+![Protfolio Website](https://res.cloudinary.com/daxmjqsy2/image/upload/v1680684223/Screenshot_74_ylys0m.png)
 
 <!-- <div align="center">
 
