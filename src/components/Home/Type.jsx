@@ -5,7 +5,7 @@ const Type = () => {
   return (
     <Typewriter
       options={{
-        strings: ["< React Js Developer />", "< Effective Problem Solver />"],
+        strings: ["< React Js Developer />", "<Effective Problem Solver/>"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
