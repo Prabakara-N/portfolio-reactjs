@@ -31,7 +31,6 @@ const Projects = () => {
               demoLink="https://prabakaran-shoestore-ecommerce.netlify.app/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={foodapp}
@@ -42,7 +41,6 @@ const Projects = () => {
               demoLink="https://prabakaran-react-foodapp.netlify.app/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Blog}
@@ -53,7 +51,6 @@ const Projects = () => {
               demoLink="https://prabakaran-react-blog.netlify.app/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={netflix}
@@ -64,7 +61,6 @@ const Projects = () => {
               demoLink="https://prabakara-netflix-clone.netlify.app/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Expense_Tracker}
@@ -75,7 +71,7 @@ const Projects = () => {
               demoLink="https://pk-react-expense-tracker.netlify.app/"
             />
           </Col>
-
+          n
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={weather}
