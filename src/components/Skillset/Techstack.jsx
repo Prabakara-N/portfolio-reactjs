@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { DiJavascript1, DiReact, DiNodejs } from "react-icons/di";
+import { DiJavascript1, DiReact } from "react-icons/di";
 import {
   SiTailwindcss,
   SiRedux,
