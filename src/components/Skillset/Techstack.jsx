@@ -7,6 +7,7 @@ import {
   SiHtml5,
   SiCss3,
   SiBootstrap,
+  SiFirebase,
 } from "react-icons/si";
 
 const Techstack = () => {
@@ -25,7 +26,7 @@ const Techstack = () => {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiRedux />
