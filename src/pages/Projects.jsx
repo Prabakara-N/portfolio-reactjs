@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 import Particle from "../components/Particle";
 import shoekart from "../assets/projects/shoe-shop.png";
-import netflix from "../assets/projects/netflix.jpg";
 import Blog from "../assets/projects/blog.jpg";
 import Expense_Tracker from "../assets/projects/expense-tracker.jpg";
 import weather from "../assets/projects/weather-api.jpg";
 import foodapp from "../assets/projects/food-app.png";
+import movie_booking from "../assets/projects/movie.jpg";
 
 const Projects = () => {
   return (
@@ -56,12 +56,18 @@ const Projects = () => {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={netflix}
+              imgPath={movie_booking}
               isBlog={false}
-              title="Netflix Clone"
-              description="In this Netflix clone project, I used React and Tailwind CSS to create a user interface that resembles the popular streaming platform. To handle client-side routing, I used the Browser Router Dom library. And to allow users to create accounts, log in, and access certain features of the app, I integrated Firebase Authentication. The favorite button and scroll functionality make it easier for users to find and interact with their favorite shows, while the random background image adds some variety to the homepage. Overall, these features demonstrate my ability to work with third-party APIs and libraries, as well as my commitment to creating a polished and user-friendly app.Overall, this project allowed me to practice my React and CSS skills, as well as gain experience working with Firebase and integrating third-party libraries into a React app."
-              ghLink="https://github.com/Prabakara-N/netflix-clone-firebase"
-              demoLink="https://prabakara-netflix-clone.netlify.app/"
+              title="Movie Booking"
+              description="
+              This project is a movie ticket booking website built using HTML, CSS, and JavaScript. The website has four screens, and each screen shows a different movie. The user can select the movie and screen they want to watch, and then select the seats they want to book.Four different movies with different ticket prices and images.
+               Four screens with different seating arrangements.
+              The selected seats are stored in the local storage.
+              The user can select the number of seats they want to book.
+              The total cost of the tickets is calculated and displayed.
+              The user can see the seats that have already been booked and cannot be selected."
+              ghLink="https://github.com/Prabakara-N/Movie-ticket-booking"
+              demoLink="https://prabakara-n.github.io/Movie-ticket-booking/"
             />
           </Col>
 
