@@ -15,39 +15,26 @@ const About = () => {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, My name is <span className="yellow">Prabakaran </span>
-              and I'm from <span className="yellow"> TamilNadu, India.</span>
+              Hi, My name is <b className="yellow">Prabakaran </b>
+              and I'm from <b className="yellow"> TamilNadu, India.</b>
               <br />
               <br />
               I recently graduated with a Bachelor's degree in Metallurgical
-              Engineering in 2022 and also I'm currently pursuing my React Js
-              web developer course. I am now looking to launch my career as a
-              React Js Developer. My educational background in metallurgy has
-              given me a solid foundation in technical and analytical skills,
-              while my training in the React Js has equipped me with the ability
-              to develop innovative web applications.
-              <br />
-              <br />
-              As a<b className="yellow"> React-Js </b>developer, I enjoy
-              tackling new challenges and continuously expanding my skillset.
+              Engineering in 2022 and also I'm currently pursuing my MERN Stack
+              developer course. I am now looking to launch my career as a React
+              Js Developer. My educational background in metallurgy has given me
+              a solid foundation in technical and analytical skills, while my
+              training in the MERN Stack has equipped me with the ability to
+              develop innovative web applications.
               <br />
               <br />I am proficient in
-              <b className="yellow"> Javascript, </b>
-              as well as have knowledge in programming languages such as C,
-              {/* <b className="yellow"> GraphQL, and Solidity.</b> */}
-              {/* <br /> */}
-              {/* <br />I have a passion for working with{" "}
-              <b className="yellow">Node.js, MongoDB,</b> and
-              <i>
-                <b className="yellow">
-                  {" "}
-                  modern Javascript libraries and frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="yellow"> React.js</b>
-              </i> */}
+              <b className="yellow"> JavaScript. </b> I have a strong interest
+              in and proficiency with front-end technologies. As a
+              <b className="yellow"> React-JS </b>developer, I enjoy tackling
+              new challenges and continuously expanding my skillset.
+              <br />
+              I am confident in my ability to positively contribute with my
+              skills and knowledge.
               <br />
               <br />I am also interested in building new
               <i>
