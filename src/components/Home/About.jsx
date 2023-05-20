@@ -18,28 +18,33 @@ const About = () => {
               Hi, My name is <b className="yellow">Prabakaran </b>
               and I'm from <b className="yellow"> TamilNadu, India.</b>
               <br />
+              <br />I recently graduated with a Bachelor's degree in
+              Metallurgical Engineering in 2022 and also I'm currently pursuing
+              my MERN Stack developer course. My educational background in
+              metallurgy has given me a solid foundation in technical and
+              analytical skills, while my training in the
+              <b className="yellow"> MERN Stack</b> has equipped me with the
+              ability to develop innovative web applications. I have a strong
+              interest in and proficiency with
+              <b className="yellow"> Front-end</b> technologies. I'm now looking
+              to launch my career as a React JS Developer.
               <br />
-              I recently graduated with a Bachelor's degree in Metallurgical
-              Engineering in 2022 and also I'm currently pursuing my MERN Stack
-              developer course. I am now looking to launch my career as a React
-              Js Developer. My educational background in metallurgy has given me
-              a solid foundation in technical and analytical skills, while my
-              training in the MERN Stack has equipped me with the ability to
-              develop innovative web applications.
               <br />
-              <br />I am proficient in
-              <b className="yellow"> JavaScript. </b> I have a strong interest
-              in and proficiency with front-end technologies. As a
+              I'm proficient in
+              <b className="yellow"> JavaScript. </b>As a
               <b className="yellow"> React-JS </b>developer, I enjoy tackling
               new challenges and continuously expanding my skillset.
               <br />
-              I am confident in my ability to positively contribute with my
+              I'm confident in my ability to positively contribute with my
               skills and knowledge.
               <br />
-              <br />I am also interested in building new
+              <br />
+              I'm also interested in building new
               <i>
                 <b className="yellow"> Web Technologies and Products, </b>
-                as well as exploring areas related to
+              </i>
+              as well as exploring areas related to
+              <i>
                 <b className="yellow"> Artificial Intelligence.</b>
               </i>
               <br />
