@@ -61,7 +61,7 @@ const About = () => {
             <h1>FIND ME ON</h1>
             <p>
               Please don't hesitate to reach out to me and{" "}
-              <span className="yellow">connect.</span>
+              <b className="yellow">connect.</b>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
